@@ -1,0 +1,42 @@
+.news{
+    background-color: white;
+    height: 380px;
+    width: 500px;
+    margin-left:auto;
+    margin-right: auto;
+    padding: 10px 5px 10px 5px;
+
+    margin-top:auto ;
+}
+.css{
+    border: solid 1px black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 170px;
+    height: 100pxpx;
+    width: 520px;
+    padding: 10px;
+}
+.name{
+    background-color: white;
+    padding: 5px;
+
+}
+.name input[type=text]{
+    width: 470px;
+    height: 25px;
+
+}
+.but button{
+    width: 470px;
+    height: 25px;
+    background-color: aqua;
+    border: 0;
+    color: white;
+    padding: 2px;
+}
+.but{
+    padding: 5px;
+}
+
+
